@@ -2,4 +2,6 @@
 comment0.target=SumOfInput
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment2.params=input
+comment2.target=int\ getSum(int)
+numComments=3
